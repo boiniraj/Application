@@ -6,4 +6,9 @@ public class App
    {
 	   return(x+y);
    }
+   
+   public int nege(int x,int y)
+   {
+	   return(x*y);
+   }
 }
